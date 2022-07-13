@@ -1,0 +1,13 @@
+.app {
+  text-align: center; 
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 15px;
+  width: 100%;
+  height: calc(100vh - 95px);
+  row-gap: 15px;
+}
